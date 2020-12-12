@@ -1,3 +1,3 @@
 # codingbook1
 
-#Python exercise 1
+#Python exercise 2
